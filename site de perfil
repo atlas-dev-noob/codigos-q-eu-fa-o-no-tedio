@@ -1,0 +1,67 @@
+//projeto em html
+// abrindo index
+<!doctype html>
+<html>
+  <head>
+    <title>Perfil</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <a href="https://mimo.org">Home</a>
+    <a href="https://mimo.org">DMs</a>
+    <a href="https://mimo.org">Logout</a>
+    <br>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9G4CODzgaDoO-K9gx4I81SsPZkWxkaK9yiBSfl0nLF8MBnIRvRoCExpytwbMANGJ0bF4&usqp=CAU">
+    <h1>Breno José</h1>
+    <h2>@kaxshaw</h2>
+    <p>
+      <em>Programador aprendiz e amador, se especializando em ADS e hardware, atualmente trabalhando nesse <a href="https://vj5coj.mimo.run/index.html">projetinho</a>.</em>
+    </p>
+    <p>
+      <strong> Local da caverna de descanso (meu quarto):</strong> Lauro de freitas, Ba.
+    </p>
+    <p>
+      <strong> Redes sociais: </strong> <a href="https://github.com/atlas-dev-noob">Github</a>
+    </p>
+    
+  </body>
+</html>
+//fechando index
+
+//abrindo css
+h1 {
+ color: white
+}
+
+h2 {
+ color: white
+}
+
+img {
+ border-radius: 50%;
+ height: 100px;
+ width: 100px;
+ margin-top: 3px;
+}
+
+body {
+ background-color: slateblue;
+ font-family: sans-serif;
+}
+
+button {
+ margin-top: 20px;
+ background-color: lightblue;
+ border-radius: 10px;
+ padding: 5px;
+}
+
+.coisas {
+  padding: 20px;
+  color: white;
+  font-size: 10px
+  font-family:'Times New Roman';
+  border-radius: 20px:
+  }
+
+//fechando css
