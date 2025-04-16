@@ -1,0 +1,45 @@
+//projeto em html
+//index
+<!DOCTYPE html>
+<html>
+<head>
+  <title>
+  </title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <img src="https://static.todamateria.com.br/upload/80/0p/800pxdavidthedeathofsocrates-0-cke.jpg" width="150"> 
+  <h1> Login dos aprendizes </h1>
+  <label for="nome"> Nome </label> </br>
+  <input type="nome" placeholder="Nome"  </input> </br> </br>
+  <label for="Vida"> O que é a vida? </label> </br>
+  <input type="Vida" placeholder="Sabedoria ioniana" </input>
+  <script src="script.js"></script>
+</body>
+</html>
+
+//css
+img {
+  border-radius: 75px;
+}
+
+body {
+  background-color: slateblue;
+  font-family: 'Trebuchet MS';
+  color: white;
+  text-align: center;
+  border: 10px; 
+
+}
+
+label{
+ font-family: Courier New;
+ font-size: 14px;
+font-weight: 600;
+}
+
+input {
+  padding: 15px; 
+  font-size: 14px;
+  border-radius: 15px;
+}
